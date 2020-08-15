@@ -30,7 +30,8 @@
     }
 
     .calendar .day:hover{
-        background-color: #fff;
+        background-color: rgb(187, 182, 182);
+        border-radius: 50%;
         cursor: pointer;
     }
 
